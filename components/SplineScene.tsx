@@ -1,0 +1,1 @@
+// Composant d'intégration de la scène Spline
